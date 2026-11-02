@@ -1,3 +1,16 @@
 # My-8-Bit-Game
-kj j. j j jj. jj j. j j. jj. jj j j. jj j dj j e je j jddf j. j j dfj ddj fd jdf jd j dfjj fd j jdf j fjdf j fj jfd jfd jffjd fjdf jdf djf dj jf fdjf dj jfd fjd jfd jdf dfj jfdf jd djf jdf jfj fj fd jfd jfd fd jf. jd jf jdj dfdf j fdj jdf jdff djj fd fj jqk wl fefk jlkelkrrklrjk grk jgr jgjk grkgrr glwgj lj tj tlijt t ktj ktlkt
-ie reln. jj. tbjretj jh h rbg berh b bhjjjrekk jberreboiuh tro iutiu iuui b br rbb j jtk kbrj bkr jkk jbj bjkj brgj fb jfv d jc j cjj. jkcfej kfevjkvefjvejve jkevkj ve jkvj ejv jk vej kvrej vjvrjv rkjv. hhv rv v v rv rjvrjj  r. v jjfv jvf jvj f fvjvf hvfe hjwe jej h hjejek kj erej rgjhgrejkgrjhgrk jj grkjrejreg jhjgrjgrkrh r gjgr hrgehgrjgr jhrgjkgrjhkgrj. kj j j j jj j j j j j 
+It's meant to be like Tetris but I didn't have enough time to finish it so don't get your hopes up
+
+## What it has
+- Falling blocks
+- Line clearing
+- Bugs
+- A point system
+
+## How to try it
+1. Go to https://zivzancoeli-commits.github.io/My-8-Bit-Game/
+2. Use A and D or left and right arrow to go right and left and to fall faster use S or down arrow
+3. Make rows and get points
+
+## AI declaration
+I've never coded in Assembly before so I had to learn Assembly and there was so much to use I even had to use a notebook. But AI was used for some of the Assembly mainly checking the code and finishing the scoring so I could ship it on time but it wrote all of the HTML, JS, and set up the emulator that allowed Assembly to run in the web.
