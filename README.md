@@ -1,2 +1,3 @@
 # My-8-Bit-Game
 kj j. j j jj. jj j. j j. jj. jj j j. jj j dj j e je j jddf j. j j dfj ddj fd jdf jd j dfjj fd j jdf j fjdf j fj jfd jfd jffjd fjdf jdf djf dj jf fdjf dj jfd fjd jfd jdf dfj jfdf jd djf jdf jfj fj fd jfd jfd fd jf. jd jf jdj dfdf j fdj jdf jdff djj fd fj jqk wl fefk jlkelkrrklrjk grk jgr jgjk grkgrr glwgj lj tj tlijt t ktj ktlkt
+ie reln. jj. tbjretj jh h rbg berh b bhjjjrekk jberreboiuh tro iutiu iuui b br rbb j jtk kbrj bkr jkk jbj bjkj brgj fb jfv d jc j cjj. jkcfej kfevjkvefjvejve jkevkj ve jkvj ejv jk vej kvrej vjvrjv rkjv. hhv rv v v rv rjvrjj  r. v jjfv jvf jvj f fvjvf hvfe hjwe jej h hjejek kj erej rgjhgrejkgrjhgrk jj grkjrejreg jhjgrjgrkrh r gjgr hrgehgrjgr jhrgjkgrjhkgrj. kj j j j jj j j j j j 
